@@ -1,94 +1,58 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋" />
-</h1>
+## 👨‍💻 About Me:
 
-<div align="right"> 
-  <a href="mailto:sanya.bhatia990@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
+<p align="left">
+I'm a BCA Graduate from Amity University. I'm skilled in Mac OS, Windows, Linux, Java, HTML, CSS, JavaScript, and Python. Additionally, I have expertise in Organizational Leadership, Event Planning, and Team Coordination. My broad skill set, academic dedication, and extracurricular involvement prepare me for a career in software development or IT. I blend technical expertise with leadership for impactful results.
+</p>
+
+## 📱 Contact Me:
+
+<p align="left">
   <a href="https://www.linkedin.com/in/sanya-bhatia16112002/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30px"/>
   </a>
-  <a href="https://github.com/sanyabhatia16/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
-  </a>
-</div>
-
-<h1 align="center">I'm Sanya Bhatia</h1>
-<h3 align="center">A Passionate Data Scientist from India</h3>
-
-<div align="center">
-  <h3>In the world of Data Science and Machine Learning, I craft intelligence from data.</h3>
-</div>
-
-- 🔭 I’m currently working on **[Core AI, ML, and DL projects](#)**.
-- 🌱 I’m learning more about **Data Science, AI, ML, and DL**.
-- 👯 I’m looking to collaborate on **exciting data science projects**.
-- 🤝 I’m open to discussions on **AI, ML, and research contributions**.
-- 💬 Ask me about **AI, ML, DL-related topics**.
-- 📫 Reach me at **sanya.bhatia990@gmail.com**.
-- ⚡ Fun fact: **Coding is fun for me!**
-
-<h3>Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/sanya-bhatia16112002/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://www.instagram.com/sanya_bhatia24" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30px"/>
   </a>
 </p>
 
-<h3>Languages and Tools:</h3>
-<p align="left">
-  <!-- Mac OS -->
-  <a href="https://www.apple.com/macos" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="macos" width="40" height="40"/>
-  </a>
-  <!-- Windows -->
-  <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
-  </a>
-  <!-- Linux -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <!-- Java -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <!-- HTML -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <!-- CSS -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <!-- GitHub -->
-  <a href="https://github.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
-  </a> 
-  <!-- PHP -->
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a> 
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-</p>
+## 🛠 Tools and Languages:
 
+<h3 align="left">Languages and Tools:</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sanyabhatia16&show_icons=true&locale=en" alt="sanyabhatia16" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanyabhatia16&" alt="sanyabhatia16" /></p>
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=00599C)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=00599C)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)&nbsp;
 
-<h3>My Contributions</h3>
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+
+## 📊 My GitHub Data:
+<a href="https://github.com/sanyabhatia16">
+  <img src="https://komarev.com/ghpvc/?username=sanyabhatia16&label=Profile%20views&color=0e75b6&style=for-the-badge"/>
+</a>
+
 <p align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanyabhatia16&theme=algolia&layout=compact"/>
 </p>
 
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Connect+with+me+on+LinkedIn!;Let's+collaborate+on+projects+🙂">
-</h3>
+<p align="center">
+  <a href="https://github.com/sanyabhatia16">
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanyabhatia16&theme=github_dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=sanyabhatia16&show_icons=true&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanyabhatia16&theme=github-dark-blue&hide_border=true" />
+  </a>
+</p>
+
+## 🏆 GitHub Trophy:
+<p align="center">
+  <a href="https://github.com/sanyabhatia16">
+    <img width=800 src="https://github-profile-trophy.vercel.app/?username=sanyabhatia16&column=8&theme=onedark&no-frame=true&no-bg=true"/>
+  </a>
+</p>
