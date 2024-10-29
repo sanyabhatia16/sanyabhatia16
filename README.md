@@ -49,6 +49,12 @@ I'm a BCA Graduate from Amity University. I'm skilled in Mac OS, Windows, Linux,
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanyabhatia16&theme=github-dark-blue&hide_border=true" />
   </a>
 </p>
+<h3> My Contributions </h3>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Connect+with+me+on+LinkedIn!;Let's+collaborate+on+projects+🙂">
