@@ -7,7 +7,7 @@ I'm a BCA Graduate from Amity University. I'm skilled in Mac OS, Windows, Linux,
 ## 📱 Contact Me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sanya-bhatia16112002/" target="_blank">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/sanya-bhatia24//" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30px"/>
   </a>
   <a href="https://www.instagram.com/sanya_bhatia24" target="_blank">
