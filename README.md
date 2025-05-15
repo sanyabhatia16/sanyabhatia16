@@ -1,7 +1,7 @@
 ## 👨‍💻 About Me:
 
 <p align="left">
-I'm a BCA Graduate from Amity University. I'm skilled in Mac OS, Windows, Linux, Java, HTML, CSS, JavaScript, and Python. Additionally, I have expertise in Organizational Leadership, Event Planning, and Team Coordination. My broad skill set, academic dedication, and extracurricular involvement prepare me for a career in software development or IT. I blend technical expertise with leadership for impactful results.
+I'm a MCA Graduate from Amity University. I'm skilled in Mac OS, Windows, Linux, Java, HTML, CSS, JavaScript, and Python. Additionally, I have expertise in Organizational Leadership, Event Planning, and Team Coordination. My broad skill set, academic dedication, and extracurricular involvement prepare me for a career in software development or IT. I blend technical expertise with leadership for impactful results.
 </p>
 
 ## 📱 Contact Me:
